@@ -63,15 +63,18 @@ https://knollingservices.com
 
 ---
 
-## 🧠 Experience Highlights
+## 🧠 Enterprise, Startup & Energy Sector Engagements
 
 | Company | Industry | Enterprise Engagements | Focus |
 |------|------|------|------|
-| Robinson & Co., LLC | Investment Banking | Middle-Market Capital Markets Clients | Operations Leadership, RPA, Data Governance |
+| Robinson & Co., LLC | Investment Banking | Middle-Market Capital Markets Clients | Operations Leadership, RPA, Data Governance, Capital Markets Execution |
 | Western Commerce Group M&A | M&A Advisory | Private Equity & Founder-Led Businesses | Enterprise Strategy, Deal Execution, Capital Solutions |
 | Photon InfoTech | Digital Consulting | Yum! Brands (KFC), McKesson, Nord Anglia | AI Transformation, CX Modernization, Enterprise Platforms |
-| RGP (Toyota Motor North America) | Automotive Technology | Toyota TMNA | Connected Vehicle Technology, Product Innovation Strategy |
-| Parker LLP | Legal / FinTech | Legal & Financial Services Clients | Digital Operations, Financial Systems, Process Automation |
+| RGP (Toyota Motor North America) | Automotive Technology | Toyota Motor North America | Connected Vehicle Technology, Product Innovation Strategy |
+| Independent Strategic Advisor | Technology Startups | Sirge.io, Highwire Capital, Christman & Associates, Knolling Energy Services | Startup Strategy, AI Integration, Platform Development, GTM Advisory |
+| Presidio Petroleum | Oil & Gas | Multi-State Asset Portfolio | CAMOS Asset Management Platform, Production Analytics, COPAS Compliance |
+| Petroleum Exploration Company | Oil & Gas | Multi-State Production Assets | Asset Management Systems, Quorum & Enerita Platform Integration |
+| Holland Land Services | Energy Asset Management | Private Equity Energy Portfolio (61K+ Wells) | Asset Management Software Development, Financial Reporting & Well Economics |
 
 ---
 
