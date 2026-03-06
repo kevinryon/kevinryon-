@@ -65,14 +65,13 @@ https://knollingservices.com
 
 ## 🧠 Experience Highlights
 
-| Company | Role | Focus |
-|------|------|------|
-| Silverside AI | Business Development | Enterprise AI – Amazon, Panasonic |
-| Robinson & Co. | SVP Operations | Investment Banking, RPA, Data Governance |
-| Western Commerce Group | SVP Enterprise Strategy | M&A Advisory, Capital Solutions |
-| Photon (KFC, McKesson) | Senior Strategy Consultant | AI Transformation |
-| Toyota TMNA | Product & Innovation Strategy | Connected Vehicle Technology |
-| Parker LLP | Director of Operations | FinTech & Digital Ops |
+| Company | Industry | Enterprise Engagements | Focus |
+|------|------|------|------|
+| Robinson & Co., LLC | Investment Banking | Middle-Market Capital Markets Clients | Operations Leadership, RPA, Data Governance |
+| Western Commerce Group M&A | M&A Advisory | Private Equity & Founder-Led Businesses | Enterprise Strategy, Deal Execution, Capital Solutions |
+| Photon InfoTech | Digital Consulting | Yum! Brands (KFC), McKesson, Nord Anglia | AI Transformation, CX Modernization, Enterprise Platforms |
+| RGP (Toyota Motor North America) | Automotive Technology | Toyota TMNA | Connected Vehicle Technology, Product Innovation Strategy |
+| Parker LLP | Legal / FinTech | Legal & Financial Services Clients | Digital Operations, Financial Systems, Process Automation |
 
 ---
 
