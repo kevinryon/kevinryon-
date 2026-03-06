@@ -1,15 +1,12 @@
-# Kevin S. Ryon
+<h1 align="center">Hi, I'm Kevin S. Ryon 👋</h1>
 
-**Enterprise Strategy & Digital Transformation**  
-ERP · Applied AI · Tech-Enabled Services
-
-📍 Fort Worth, TX  
-🌐 https://knollingservices.com  
-💼 https://linkedin.com/in/kevinryon
+<p align="center">
+Enterprise Strategy | AI | Digital Transformation  
+</p>
 
 ---
 
-## 👋 About Me
+## 🚀 About Me
 
 Enterprise strategy and digital transformation leader focused on building practical AI, automation, and data-driven operating models.
 
@@ -17,53 +14,65 @@ I work at the intersection of **technology, operations, and business strategy** 
 
 ---
 
-## 🚀 Current Projects
+## 🔭 I'm Currently Working On
 
 **Vero Price Match**  
 Consumer PWA enabling real-time retail price matching using barcode scanning, geolocation store detection, and QR code proof verification.
 
 **Knolling Services**  
-SaaS platform focused on oil & gas asset management, operational digitization, and data-driven infrastructure strategy.
+SaaS platform focused on oil & gas asset management, operational digitization, and infrastructure analytics.
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 I'm Currently Learning
 
-- Full-stack development with **Next.js, Supabase, Stripe, and Better Auth**
-- Applied **Generative AI and ML workflows**
-- Building scalable **AI-enabled SaaS applications**
+• Full-stack development with **Next.js, Supabase, Stripe, Better Auth**  
+• Generative AI integration and applied machine learning for business optimization
 
 ---
 
-## 🤝 Open to Collaborate On
+## 👯 I'm Looking to Collaborate On
 
-- AI-powered enterprise tools  
-- ERP implementations & digital transformation initiatives  
-- SaaS platforms and operational automation systems  
-- Data-driven operating models and analytics frameworks
+• AI-powered enterprise tools  
+• ERP implementations  
+• Digital transformation platforms  
+• SaaS applications
 
 ---
 
 ## 💬 Ask Me About
 
-- Enterprise strategy & operating model design  
-- AI / GenAI business implementation  
-- ERP and process automation  
-- Data analytics & decision intelligence  
-- Technology-enabled revenue models
+• Enterprise Strategy  
+• Digital Transformation  
+• AI / GenAI Business Applications  
+• ERP & Process Automation  
+• Data Analytics & Operating Model Design
 
 ---
 
-## 🏢 Experience Highlights
+## 📫 How to Reach Me
+
+LinkedIn  
+https://linkedin.com/in/kevinryon
+
+Email  
+ryonkevin@gmail.com
+
+Website  
+https://knollingservices.com
+
+---
+
+## 🧠 Experience Highlights
 
 | Company | Role | Focus |
 |------|------|------|
 | Silverside AI | Business Development | Enterprise AI – Amazon, Panasonic |
-| Robinson & Co. Investment Banking | SVP, Operations | RPA, Data Governance, Capital Markets |
-| Western Commerce Group M&A | SVP, Enterprise Strategy | M&A Advisory, Capital Solutions |
-| Photon InfoTech | Senior Strategy Consultant | AI Transformation, CX Modernization |
-| RGP / Toyota TMNA | Senior Product & Innovation Strategy Manager | Connected Vehicle Technology |
-| Parker LLP | Director of Operations / Controller | FinTech, Legal Ops, Digital Systems |
+| Robinson & Co. | SVP Operations | Investment Banking, RPA, Data Governance |
+| Western Commerce Group | SVP Enterprise Strategy | M&A Advisory, Capital Solutions |
+| Photon (KFC, McKesson) | Senior Strategy Consultant | AI Transformation |
+| Toyota TMNA | Product & Innovation Strategy | Connected Vehicle Technology |
+| Parker LLP | Director of Operations | FinTech & Digital Ops |
 
 ---
 
@@ -71,72 +80,40 @@ SaaS platform focused on oil & gas asset management, operational digitization, a
 
 **Languages & Analytics**
 
-Python • R • SQL • JavaScript • HTML
+Python · R · SQL · JavaScript
 
 **Platforms**
 
-Next.js • Supabase • Vercel • Stripe • AWS • Snowflake
+Next.js · Supabase · Vercel · AWS · Snowflake
 
 **Analytics**
 
-Tableau • Power BI
-
-**Business Tools**
-
-Excel (Expert) • PowerPoint (Expert) • Word (Expert)
-
----
-
-## 📊 Areas of Expertise
-
-- Digital Transformation & Operating Model Design  
-- AI / GenAI Strategy & Implementation  
-- ERP & Process Automation  
-- Go-to-Market Strategy & Revenue Acceleration  
-- Data Analytics & KPI / OKR Frameworks  
-- FinTech · Cloud Consulting · M&A Advisory
-
----
-
-## 🚀 Notable Projects
-
-**Vero Price Match**  
-Consumer PWA for real-time retail price matching.
-
-**CAMOS**  
-Commodity asset management & accounting software developed alongside Hartz Capital & JPMorgan.
-
-**Toyota TMNA**  
-Early concept development for Adaptive Drive Mode and Cabin Awareness systems.
-
-**Knolling Services**  
-Co-founded oil & gas SaaS platform for infrastructure asset management.
+Tableau · Power BI
 
 ---
 
 ## 🎓 Education
 
 **Pepperdine University**  
-MS — Business Analytics  
-Graziadio School of Business
+MS Business Analytics
 
-**Texas Christian University (TCU)**  
-BS — Geology  
+**Texas Christian University**  
+BS Geology  
 Minors: Technology Management & Business Finance
 
 ---
 
-## 🤝 Strategic Advisory
+## 🚀 Key Projects
 
-- Sirge.io — E-commerce Platform
-- Highwire Capital — IP-backed M&A & AI Governance
-- Christman & Associates — Platform Optimization & AI Integration
-- Knolling Energy Services — Oil & Gas SaaS
+**Vero Price Match**  
+Real-time retail price match verification platform.
+
+**CAMOS**  
+Commodity asset management & accounting software.
+
+**Toyota Adaptive Drive Mode**  
+Early connected vehicle driver experience concepts.
 
 ---
 
-## 📫 Contact
-
-📧 ryonkevin@gmail.com  
-💼 https://linkedin.com/in/kevinryon  
-🌐 https://knollingservices.com
+⭐ Thanks for visiting my GitHub
