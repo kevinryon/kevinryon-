@@ -31,6 +31,19 @@ SaaS platform focused on oil & gas asset management, operational digitization, a
 
 ---
 
+## 🚀 Featured Projects
+
+### Vero Price Match
+Real-time retail price matching platform using barcode scanning, store geolocation detection, and QR code verification.
+
+### CAMOS
+Commodity Asset Management & Organization Software developed for oil & gas asset analytics and accounting.
+
+### Pepperdine MSBA Projects
+Machine learning, predictive analytics, and data science projects from the Pepperdine MSBA program.
+
+---
+
 ## 👯 I'm Looking to Collaborate On
 
 • AI-powered enterprise tools  
